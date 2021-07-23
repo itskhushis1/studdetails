@@ -8,4 +8,5 @@ for i in range(int(input())):
         vocab[value]+= 1
 
 print(len(vocab))
+            
 print(*vocab.values())
