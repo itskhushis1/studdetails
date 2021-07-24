@@ -7,6 +7,7 @@ for i in range(int(input())):
     else:
         vocab[value]+= 1
 
+            
 print(len(vocab))
             
 print(*vocab.values())
