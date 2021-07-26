@@ -1,5 +1,6 @@
 
 vocab = {}
+
 for i in range(int(input())):
     value = input()
     if not vocab.get(value, None):
