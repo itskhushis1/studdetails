@@ -26,6 +26,9 @@ public class GetStudentDetails
           System.out.println("Marks (Maths, Physics, English): " +math+","+phy+","+eng);
           System.out.println("Total: "+total +"\tPercentage: "+perc);
             
+       
+       
+       
       }
           
 }
