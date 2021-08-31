@@ -8,7 +8,7 @@ public class GetStudentDetails
       {
           String name;
           int roll, math, phy, eng;
-           
+
           Scanner SC=new Scanner(System.in);
            
           System.out.print("Enter Name: ");
